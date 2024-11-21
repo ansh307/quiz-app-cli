@@ -30,6 +30,7 @@ This is a simple command-line quiz application built with Python. It allows user
 
 ## Example Usage
 # Register
+```
 Main Menu
 1. Register
 2. Login
@@ -40,8 +41,9 @@ Register
 Enter username: ansh
 Enter password: password123
 Registration successful! Please login to continue.
-
+```
 # Login
+```
 Main Menu
 1. Register
 2. Login
@@ -52,8 +54,9 @@ Login
 Enter username: ansh
 Enter password: password123
 Login successful!
-
+```
 # Attempt Quiz
+```
 Quiz Menu
 1. Attempt Quiz
 2. Logout
@@ -80,3 +83,4 @@ Which function is used to get input from a user in Python?
 Your answer: 2
 
 Quiz completed! Your score: 2/2
+```
